@@ -1,5 +1,9 @@
 # MeetMind AI — Day 02/30
 Meeting intelligence with audio transcription, summaries, decisions, evidence-backed tasks, transcript search, follow-up drafts and Q&A.
+<img width="1355" height="666" alt="image" src="https://github.com/user-attachments/assets/6515e676-4bfb-4d97-8dd0-287f4199a159" />
+<img width="1334" height="652" alt="image" src="https://github.com/user-attachments/assets/a7bc0a12-1c88-4dda-95f5-07f7705397c9" />
+<img width="1358" height="666" alt="image" src="https://github.com/user-attachments/assets/5a1de354-d6b3-48c0-bb8f-76775535830a" />
+
 
 ## Windows quick start
 Install Python 3.12 if needed. Extract the ZIP and double-click `run.bat`, or run:
